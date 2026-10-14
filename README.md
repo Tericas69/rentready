@@ -1,6 +1,6 @@
-# RentRelay
+# RentReady
 
-RentRelay is a ServiceNow application being developed to help tenants, property managers, and repair professionals coordinate rental inspections and maintenance. It brings inspection records, repair requests, photos, work updates, and actual repair costs together to support maintenance and spending decisions.
+RentReady is a ServiceNow application being developed to help tenants, property managers, and repair professionals coordinate rental inspections and maintenance. It brings inspection records, repair requests, photos, work updates, and actual repair costs together to support maintenance and spending decisions.
 
 ## Project Status
 
@@ -19,7 +19,7 @@ In development. The features below describe the planned application. Availabilit
 - Equipment repair history and maintenance dashboards.
 - Role-based access for tenants, managers, and repair professionals.
 
-Later development includes AI-assisted inspection review, repair intake suggestions, Ask RentRelay questions and answers, and maintenance spending estimates. AI suggestions will require appropriate human review.
+Later development includes AI-assisted inspection review, repair intake suggestions, Ask RentReady questions and answers, and maintenance spending estimates. AI suggestions will require appropriate human review.
 
 ## Sprint Plan
 
@@ -51,7 +51,7 @@ Use the story identifier when available, such as `RR-05`, to connect changes to 
 
 ## ServiceNow Setup
 
-Running RentRelay requires a ServiceNow instance with the necessary application permissions and capabilities. Forking this repository copies the project files; it does not create or copy a ServiceNow instance.
+Running RentReady requires a ServiceNow instance with the necessary application permissions and capabilities. Forking this repository copies the project files; it does not create or copy a ServiceNow instance.
 
 Application import instructions and required dependencies will be documented as the build progresses.
 
